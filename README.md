@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @luca
-- Working with JS and Python
+### 👋 Hi, I’m @luca
   
-A Developer by day ☼ and night ☾
+### A Developer by day ☼ and night ☾
 Currently working on [nexuscraft](https://nexuscraft.app/)
 
 - ☼ I use daily: `.js`, `.ts`, `.html`, `.css`
