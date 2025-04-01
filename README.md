@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @luca
   
 ### A Developer by day ☼ and night ☾
-Currently working on [wavedesk](https://wavedesk.app/) and [weddingvault](https://weddinvault.de/)
+Currently working on [wavedesk](https://wavedesk.app/) and [weddingvault](https://weddingvault.de/)
 
 - ☼ I use daily: `.js`, `.ts`, `.html`, `.css`
 - ☾ I use nightly: `.java`, `.python`
