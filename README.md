@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @luca
   
 ### A Developer by day ☼ and night ☾
-Currently working on [nexuscraft](https://nexuscraft.app/)
+Currently working on [wavedesk](https://wavedesk.app/) and [weddingvault](https://weddinvault.de/)
 
 - ☼ I use daily: `.js`, `.ts`, `.html`, `.css`
 - ☾ I use nightly: `.java`, `.python`
