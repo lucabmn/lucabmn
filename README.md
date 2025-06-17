@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabmn&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucabmn&show_icons=true&theme=transparent)
