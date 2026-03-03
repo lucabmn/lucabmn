@@ -52,8 +52,10 @@ const luca = {
 <br>
 
 ![tRPC](https://img.shields.io/badge/tRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
+![oRPC](https://img.shields.io/badge/oRPC-2596BE?style=for-the-badge&logo=trpc&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 </details>
 
@@ -62,7 +64,8 @@ const luca = {
 <br>
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=drizzle&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-005C84?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </details>
 
@@ -71,6 +74,7 @@ const luca = {
 <br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-2496ED?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -81,6 +85,7 @@ const luca = {
 <summary><b>📱 Cross-Platform</b></summary>
 <br>
 
+![Electron](https://img.shields.io/badge/Electron-0A1014?style=for-the-badge&logo=electron&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-0A1014?style=for-the-badge&logo=tauri&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
